@@ -31,3 +31,6 @@ Data Cleaning and Preprocessing: The dataset underwent thorough cleaning and pre
 Pivot Tables, Charts and Forecasting: Utilizing Excel's pivot tables, charting features and forecasting, I created visualizations to uncover trends and insights related to different aspects of the dataset.
 
 Debt Tracker Dashboard: The project culminates in a visual dashboard created entirely within Excel. This dashboard dashboard provides an overview of the debt data and allows users to explore key metrics and trends.
+
+![image](https://github.com/user-attachments/assets/317df751-0d8c-4075-b5f8-6068d611249a)
+
