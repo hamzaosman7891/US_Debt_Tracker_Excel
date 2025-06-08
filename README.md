@@ -1,6 +1,6 @@
 # US_Debt_Tracker_Excel
 
-In this project we will analyse the US goverment's publicly held debt and govermental debt.
+In this project we will analyse the US government’s publicly held debt and governmental debt.
 
 Questions:
 
