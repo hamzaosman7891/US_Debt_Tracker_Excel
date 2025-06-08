@@ -33,4 +33,6 @@ Pivot Tables, Charts and Forecasting: Utilizing Excel's pivot tables, charting f
 Debt Tracker Dashboard: The project culminates in a visual dashboard created entirely within Excel. This dashboard dashboard provides an overview of the debt data and allows users to explore key metrics and trends.
 
 ![image](https://github.com/user-attachments/assets/317df751-0d8c-4075-b5f8-6068d611249a)
+![image](https://github.com/user-attachments/assets/b4e2a74d-6695-4b0f-bec0-f5a7b95fb05c)
+
 
